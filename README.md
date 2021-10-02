@@ -7,5 +7,5 @@ Membahas tentang Git memerlukan materi yang cukup banyak, tetapi pada repo ini h
 1. Instalasi Git
 2. Konfigurasi Git
 3. Mengelola Repo Sendiri
-    * Mengelola repo di account sendiri
-    * Mengelola repo di organisasi
+* Mengelola repo di account sendiri
+* Mengelola repo di organisasi
