@@ -1,8 +1,10 @@
-# Petunjuk Penggunaan Repo
+# Langkah-langkah dan Penjelasan
 
-Dokumen ini menjelaskan sedikit tentang cara menggunakan Git dan GitHub untuk keperluan pengelolaan dokumen digital - kode sumber, dokumentasi, dan lain-lain. Beberapa hal yang perlu diperhatikan:
+Menuliskan langkah-langkah dan penjelasan tentang penggunaan Git dan GitHub yang telah disampaikan oleh dosen pengampu. 
 
-Membahas tentang Git memerlukan materi yang cukup banyak, tetapi pada repo ini hanya akan dibahas pemakaian praktis. Jika menghendaki pemakaian lebih lanjut, bisa membaca dokumentasi di Website Git. Urutan pembahasan adalah sebagai berikut:
+Penjelasan Penggunaan Git hanya dibahas secara dasar. Apabila ingin menggunakan secara lebih lanjut, bisa dipelajari di [Website Git](https://www.git-scm.com/)
+
+Untuk Penjelasan yang akan disampaikan sebagai berikut:
 
 1. Instalasi Git
 2. Konfigurasi Git
