@@ -89,4 +89,4 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 21. Untuk mencoba dari command prompt, masuk ke command prompt, setelah itu eksekusi "git --version" untuk melihat apakah sudah terinstall atau belum. Jika sudah terinstall dengan benar, makan akan muncul hasil berikut: 
 
-![instalasi-21](https://github.com/PrasastiDani/01-git-github/blob/main/images/instalasi/instalasi-21.png)
+![instalasi-21](https://github.com/PrasastiDani/01-git-github/blob/main/images/instalasi/instalsi-21.png)
