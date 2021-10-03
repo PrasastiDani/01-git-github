@@ -17,7 +17,7 @@ Untuk membuat repo, gunakan langkah-langkan berikut:
 
 2. Isikan nama, keterangan, serta lisensi. Repo bisa dibuat **Privat** apabila user ingin menjaga privasi repo
 
-![repo-sendiri-2](https://github.com/PrasastiDani/01-git-github/blob/main/images/mengolah%20repo/repo-sendiri-2.png)
+![repo-sendiri-2](https://github.com/PrasastiDani/01-git-github/blob/main/images/mengolah%20repo/repo-sendiri-2.jpeg)
 
 3. Klik `Create Repository`
 
