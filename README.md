@@ -8,6 +8,6 @@ Untuk Penjelasan yang akan disampaikan sebagai berikut:
 
 1. [Instalasi Git](https://github.com/PrasastiDani/01-git-github/blob/main/01-instal-git.md)
 2. [Konfigurasi Git](https://github.com/PrasastiDani/01-git-github/blob/main/02-konfigurasi-git.md)
-3. Mengelola Repo Sendiri
-* Mengelola repo di account sendiri
-* Mengelola repo di organisasi
+3. [Mengelola Repo Sendiri](https://github.com/PrasastiDani/01-git-github/blob/main/03-mengelola-repo-sendiri.md)
+* [Mengelola repo di account sendiri](https://github.com/PrasastiDani/01-git-github/blob/main/03-mengelola-repo-sendiri-account.md)
+* [Mengelola repo di organisasi](https://github.com/PrasastiDani/01-git-github/blob/main/03-mengelola-repo-sendiri-organisasi.md)
