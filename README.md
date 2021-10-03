@@ -6,8 +6,8 @@ Penjelasan Penggunaan Git hanya dibahas secara dasar. Apabila ingin menggunakan 
 
 Untuk Penjelasan yang akan disampaikan sebagai berikut:
 
-1. Instalasi Git
-2. Konfigurasi Git
+1. [Instalasi Git](https://github.com/PrasastiDani/01-git-github/blob/main/01-instal-git.md)
+2. [Konfigurasi Git](https://github.com/PrasastiDani/01-git-github/blob/main/02-konfigurasi-git.md)
 3. Mengelola Repo Sendiri
 * Mengelola repo di account sendiri
 * Mengelola repo di organisasi

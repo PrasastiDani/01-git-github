@@ -76,7 +76,6 @@ Sebelum install Git di Windows, anda harus sudah mempunyai editor teks yang didu
 
 18. Untuk menjalankan, dari Start menu, ketikkan "Git", akan muncul beberapa pilihan. Pilih "Git Bash" atau "Git GUI".
 
-
 ![instalasi-18](https://github.com/PrasastiDani/01-git-github/blob/main/images/instalasi/instalasi-18.png)
 
 19. Tampilan "Git Bash"
